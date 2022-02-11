@@ -1,4 +1,4 @@
-# Readme Input Homework
+# Readme Input
 
   ## Link
   https://drive.google.com/file/d/1v7nuC3gQW4aSdpxrmDTCQw7AfV5ZwW9a/view
